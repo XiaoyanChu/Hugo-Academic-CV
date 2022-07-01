@@ -1,5 +1,7 @@
 ---
 title: 从脑机接口到脑脑接口：认知传输与群体协同的教育变革
+subtitle: From Brain-Computer Interfaces to Brain-Brain Interfaces：Educational
+  Revolution in Cognitive Transmission and Collective Collaboration
 publication_types:
   - "2"
 authors:
