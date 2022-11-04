@@ -1,5 +1,3 @@
-
-
 ---
 title: Constructing an Edu-Metaverse Ecosystem: A New and Innovative Framework
 publication_types:
