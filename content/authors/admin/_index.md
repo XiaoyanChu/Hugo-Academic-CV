@@ -1,8 +1,8 @@
 ---
 title: Xiaoyan Chu
-role: Master Candidate of Education
+role: Ph.D. Candidate of Education
 avatar_filename: avatar.jpg
-bio: My research interests include Educational Technology, AI in Education,
+bio: My research interests include Educational Technology, Generative AI in Education, 
   International Education.
 interests:
   - Educational Technology
@@ -36,8 +36,8 @@ email: xiaoyan_chu@outlook.com
 superuser: true
 highlight_name: true
 ---
-Xiaoyan Chu is a Master of Education student at Zhejiang University. Her research interests include educational technology, artificial intelligence in education, and international education.
+Xiaoyan Chu is a Ph.D. candidate of Educational Technology at Zhejiang University, as well as a master student in Digital Technologies, Communication and Education in the University of Mnachester. Her research interests include educational technology, Generative AI in Education, and international education.
 
-楚肖燕是浙江大学教育学硕士研究生。她的研究兴趣包括教育技术、教育中的人工智能、国际教育。
+楚肖燕是浙江大学教育技术学博士生，同时也是曼彻斯特大学数字技术、传播与教育系的硕士研究生。她的研究兴趣包括教育技术、教育中的人工智能、国际教育。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xiaoyan_Chu_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
