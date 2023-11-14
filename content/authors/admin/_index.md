@@ -27,7 +27,7 @@ organizations:
   - name: The University of Mnachester
     url: https://www.manchester.ac.uk/
 education:
-  course:
+  courses:
     - course: BSc in Educational Technology
       institution: Nanjing Normal University
       year: "2021"
