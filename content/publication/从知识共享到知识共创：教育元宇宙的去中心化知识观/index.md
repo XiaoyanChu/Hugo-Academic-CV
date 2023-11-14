@@ -1,5 +1,5 @@
 ---
-title: 从脑机接口到脑脑接口：认知传输与群体协同的教育变革
+title: 
 subtitle: From Knowledge Sharing to Knowledge Co-creation: A Decentralized View of Knowledge in the Education Metaverse
 publication_types:
   - "2"
