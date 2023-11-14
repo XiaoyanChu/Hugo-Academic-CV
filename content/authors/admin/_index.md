@@ -1,6 +1,7 @@
 ---
 title: Xiaoyan Chu
-role: Ph.D. Candidate of Educational Technology Master student of Digital Technologies, Communication and Education
+role: Ph.D. Candidate of Educational Technology
+role: Master student of Digital Technologies, Communication and Education
 avatar_filename: avatar.jpg
 bio: My research interests include Educational Technology, Generative AI in Education, 
   International Education.
@@ -27,13 +28,13 @@ organizations:
   - name: The University of Mnachester
     url: https://www.manchester.ac.uk/
 education:
-  Degree:
-    - Degree: BSc in Educational Technology
+  Course:
+    - Course: BSc in Educational Technology
       institution: Nanjing Normal University
       year: "2021"
     - institution: The University of Edinburgh
       year: "2018"
-      Degree: Moray House School of Education and Sport
+      Course: Moray House School of Education and Sport
 email: xiaoyan_chu@outlook.com
 superuser: true
 highlight_name: true
