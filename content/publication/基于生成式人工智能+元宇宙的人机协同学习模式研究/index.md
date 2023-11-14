@@ -1,6 +1,5 @@
-
 ---
-title:基于生成式人工智能+元宇宙的人机协同学习模式研究
+title: 基于生成式人工智能+元宇宙的人机协同学习模式研究
 publication_types:
   - "2"
 authors:
