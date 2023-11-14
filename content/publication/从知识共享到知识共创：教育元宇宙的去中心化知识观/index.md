@@ -1,5 +1,6 @@
 ---
 title: 从知识共享到知识共创教育元宇宙的去中心化知识观
+
 subtitle: From Knowledge Sharing to Knowledge Co-creation: A Decentralized View of Knowledge in the Education Metaverse
 publication_types:
   - "2"
