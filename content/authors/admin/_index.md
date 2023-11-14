@@ -27,13 +27,13 @@ organizations:
   - name: The University of Mnachester
     url: https://www.manchester.ac.uk/
 education:
-  Course:
-    - Course: BSc in Educational Technology
+  course:
+    - course: BSc in Educational Technology
       institution: Nanjing Normal University
       year: "2021"
     - institution: The University of Edinburgh
       year: "2018"
-      Course: Moray House School of Education and Sport
+      course: Moray House School of Education and Sport
 email: xiaoyan_chu@outlook.com
 superuser: true
 highlight_name: true
