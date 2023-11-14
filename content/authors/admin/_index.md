@@ -1,7 +1,6 @@
 ---
 title: Xiaoyan Chu
-role: Ph.D. Candidate of Educational Technology
-role: Master student of Digital Technologies, Communication and Education
+role: Ph.D. Candidate in EduTech & Master student in DTCE
 avatar_filename: avatar.jpg
 bio: My research interests include Educational Technology, Generative AI in Education, 
   International Education.
