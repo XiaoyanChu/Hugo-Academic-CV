@@ -27,7 +27,7 @@ item:
     title: China Scholarship Council Reserve Talent Training Programme for International Organisations
     url: ""
     
-widget_id: Accomplishments
+widget_id: Accomplish&shy;ments
 headless: true
 weight: 40
 title: Accomplishments
